@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
-using DevFreela.API.Entities;
+using DevFreela.API.Entities; 
 using DevFreela.API.Models;
 using DevFreela.API.Persistence;
 using DevFreela.API.Services;
